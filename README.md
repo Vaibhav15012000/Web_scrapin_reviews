@@ -1,1 +1,1 @@
-# Web_scrapin_reviews
+# Web_scraping_reviews
